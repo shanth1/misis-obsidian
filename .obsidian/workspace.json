@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Индекс.md",
+                "file": "Английский язык/_ Английский язык.md",
                 "mode": "source",
                 "source": true
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Индекс.md",
+                "file": "Английский язык/_ Английский язык.md",
                 "mode": "preview",
                 "source": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Индекс.md",
+                "file": "Английский язык/_ Английский язык.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Индекс.md",
+                "file": "Английский язык/_ Английский язык.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Индекс.md"
+                "file": "Английский язык/_ Английский язык.md"
               }
             }
           },
@@ -211,7 +211,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -227,12 +227,12 @@
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
       "audio-recorder:Начать/остановить запись": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "b80ca2c63824c832",
   "lastOpenFiles": [
+    "Индекс.md",
     "Английский язык/_ Английский язык.md",
     "_ Canvas",
     "_ Templates/Дисциплина.md",
@@ -245,7 +245,6 @@
     "Квантовые вычисления/_ Квантовые вычисления.md",
     "Введение в искусственные нейронные сети/_ Введение в искусственные нейронные сети.md",
     "Введение в искусственные нейронные сети/asdasd.md",
-    "Индекс.md",
     "_ Daily",
     "2023-09-15.md",
     "Введение в искусственные нейронные сети",
