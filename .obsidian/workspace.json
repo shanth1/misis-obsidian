@@ -6,7 +6,6 @@
       {
         "id": "0ce87ed291fb5131",
         "type": "tabs",
-        "dimension": 44.87427466150871,
         "children": [
           {
             "id": "2ebdfcb32b7750f3",
@@ -74,31 +73,10 @@
                 "mode": "source",
                 "source": true
               }
-            },
-            "group": "fd97268a9ce49ff2"
+            }
           }
         ],
         "currentTab": 5
-      },
-      {
-        "id": "7f48be0ffe19e15d",
-        "type": "tabs",
-        "dimension": 55.12572533849129,
-        "children": [
-          {
-            "id": "c0d28c746c7b24ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Введение в искусственные нейронные сети/01. Введение. Успехи. История. События.md",
-                "mode": "preview",
-                "source": true
-              }
-            },
-            "group": "fd97268a9ce49ff2"
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -248,6 +226,10 @@
   "lastOpenFiles": [
     "Введение в искусственные нейронные сети/_ Введение в искусственные нейронные сети.md",
     "Введение в искусственные нейронные сети/01. Введение. Успехи. История. События.md",
+    "_ Assets/Pasted image 20230916104200.png",
+    "Pasted image 20230916104018.png",
+    "_ Assets/Pasted image 20230916103928.png",
+    "Pasted image 20230916104005.png",
     "Индекс.md",
     "Английский язык/_ Английский язык.md",
     "Pasted image 20230916092002.png",
@@ -283,7 +265,6 @@
     "Excalidraw/Drawing 2023-09-15 13.36.39.excalidraw.md",
     "Recording 20230915132735.webm",
     "Excalidraw",
-    "_Ресурсы/Без названия.md",
     "Untitled.canvas"
   ]
 }

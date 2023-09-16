@@ -6,5 +6,6 @@
   "alwaysUpdateLinks": true,
   "livePreview": false,
   "showInlineTitle": true,
-  "newLinkFormat": "relative"
+  "newLinkFormat": "relative",
+  "showUnsupportedFiles": true
 }
