@@ -7,5 +7,6 @@
   "livePreview": false,
   "showInlineTitle": true,
   "newLinkFormat": "relative",
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "vimMode": true
 }
