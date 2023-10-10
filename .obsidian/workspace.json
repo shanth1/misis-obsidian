@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Квантовые вычисления/04. Лекция.md",
+                "file": "Индекс.md",
                 "mode": "source",
                 "source": true
               }
@@ -56,7 +56,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Квантовые вычисления/04. Лекция.md",
+                "file": "Индекс.md",
                 "mode": "preview",
                 "source": true
               }
@@ -113,8 +113,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 215.5,
-    "collapsed": true
+    "width": 215.5
   },
   "right": {
     "id": "c8cab7b74067b1b1",
@@ -130,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Квантовые вычисления/04. Лекция.md",
+                "file": "Индекс.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Квантовые вычисления/04. Лекция.md",
+                "file": "Индекс.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Квантовые вычисления/04. Лекция.md"
+                "file": "Индекс.md"
               }
             }
           },
@@ -212,8 +211,8 @@
   },
   "active": "d94482bf80ffa567",
   "lastOpenFiles": [
-    "Квантовые вычисления/03. Лекция. Вычисления. Тензорное произведение.md",
     "Квантовые вычисления/04. Лекция.md",
+    "Квантовые вычисления/03. Лекция. Вычисления. Тензорное произведение.md",
     "Квантовые вычисления/_ Квантовые вычисления.md",
     "Аккаунт.md",
     "Индекс.md",
