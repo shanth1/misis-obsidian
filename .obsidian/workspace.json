@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Индекс.md",
+                "file": "Аккаунт.md",
                 "mode": "source",
                 "source": true
               }
@@ -56,7 +56,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Индекс.md",
+                "file": "Аккаунт.md",
                 "mode": "preview",
                 "source": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Индекс.md",
+                "file": "Аккаунт.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Индекс.md",
+                "file": "Аккаунт.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Индекс.md"
+                "file": "Аккаунт.md"
               }
             }
           },
@@ -209,13 +209,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d94482bf80ffa567",
+  "active": "d21034221143a876",
   "lastOpenFiles": [
+    "Индекс.md",
     "Квантовые вычисления/04. Лекция.md",
     "Квантовые вычисления/03. Лекция. Вычисления. Тензорное произведение.md",
     "Квантовые вычисления/_ Квантовые вычисления.md",
     "Аккаунт.md",
-    "Индекс.md",
     "Без названия.canvas",
     "Квантовые вычисления/01. Домашнее задание. Квантовые вычисления.md",
     "Квантовые вычисления/01. Лекция. Кубит. Суперпозиция.md",
