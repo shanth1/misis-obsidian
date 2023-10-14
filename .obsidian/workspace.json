@@ -62,8 +62,21 @@
               }
             },
             "group": "3bb70bddbe8be4c6"
+          },
+          {
+            "id": "7035b97be485edbc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Аккаунт.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -209,7 +222,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d21034221143a876",
+  "active": "7035b97be485edbc",
   "lastOpenFiles": [
     "Индекс.md",
     "Квантовые вычисления/04. Лекция.md",
