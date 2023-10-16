@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Аккаунт.md",
+                "file": "Индекс.md",
                 "mode": "source",
                 "source": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Аккаунт.md",
+                "file": "Индекс.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Аккаунт.md",
+                "file": "Индекс.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Аккаунт.md"
+                "file": "Индекс.md"
               }
             }
           },
@@ -191,8 +191,8 @@
   },
   "active": "d94482bf80ffa567",
   "lastOpenFiles": [
-    "Индекс.md",
     "Аккаунт.md",
+    "Индекс.md",
     "Спецглавы математики/_ Спецглавы математики.md",
     "Квантовые вычисления/04. Лекция.md",
     "Квантовые вычисления/03. Лекция. Вычисления. Тензорное произведение.md",
