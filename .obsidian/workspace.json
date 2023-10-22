@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Введение в искусственные нейронные сети/05. Лекция. Обратное распространение ошибки. Back propagation.md",
+                "file": "Аккаунт.md",
                 "mode": "source",
                 "source": true
               }
@@ -58,7 +58,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Введение в искусственные нейронные сети/05. Лекция. Обратное распространение ошибки. Back propagation.md",
+                "file": "Аккаунт.md",
                 "mode": "preview",
                 "source": true
               }
@@ -115,8 +115,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 215.5,
-    "collapsed": true
+    "width": 215.5
   },
   "right": {
     "id": "c8cab7b74067b1b1",
@@ -132,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Введение в искусственные нейронные сети/05. Лекция. Обратное распространение ошибки. Back propagation.md",
+                "file": "Аккаунт.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Введение в искусственные нейронные сети/05. Лекция. Обратное распространение ошибки. Back propagation.md",
+                "file": "Аккаунт.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Введение в искусственные нейронные сети/05. Лекция. Обратное распространение ошибки. Back propagation.md"
+                "file": "Аккаунт.md"
               }
             }
           },
