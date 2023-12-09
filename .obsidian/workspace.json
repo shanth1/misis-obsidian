@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Индекс.md",
+                "file": "Аккаунт.md",
                 "mode": "source",
                 "source": true
               }
@@ -58,7 +58,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Индекс.md",
+                "file": "Аккаунт.md",
                 "mode": "preview",
                 "source": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Индекс.md",
+                "file": "Аккаунт.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Индекс.md",
+                "file": "Аккаунт.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Индекс.md"
+                "file": "Аккаунт.md"
               }
             }
           },
@@ -213,8 +213,8 @@
   },
   "active": "d94482bf80ffa567",
   "lastOpenFiles": [
-    "Аккаунт.md",
     "Индекс.md",
+    "Аккаунт.md",
     "Квантовые вычисления/01. Лекция. Кубит. Суперпозиция.md",
     "Английский язык/_ Английский язык.md",
     "Квантовые вычисления/08. Лекция. Алгоритм Дойча.md",
