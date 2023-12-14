@@ -2,7 +2,7 @@
   "promptDelete": false,
   "trashOption": "none",
   "newFileLocation": "current",
-  "attachmentFolderPath": "_Assets",
+  "attachmentFolderPath": "_ Assets",
   "alwaysUpdateLinks": true,
   "livePreview": false,
   "showInlineTitle": true,
@@ -15,5 +15,6 @@
     "landscape": false,
     "margin": "0",
     "downscalePercent": 100
-  }
+  },
+  "useMarkdownLinks": true
 }
