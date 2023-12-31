@@ -41,9 +41,11 @@
             "id": "8332016f1e624ad0",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.3"
+                "file": "Индекс.md",
+                "mode": "source",
+                "source": true
               }
             }
           }
