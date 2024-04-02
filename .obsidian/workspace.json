@@ -102,9 +102,39 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8ceafbd15240b8a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Техническое задание на UX макет.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
+      },
+      {
+        "id": "51e5a52b9888d06d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1b2d30a39c339c02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Техническое задание на UX макет.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -154,7 +184,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 215.5
+    "width": 215.5,
+    "collapsed": true
   },
   "right": {
     "id": "c8cab7b74067b1b1",
@@ -170,7 +201,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Аккаунт.md",
+                "file": "Техническое задание на UX макет.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +213,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Аккаунт.md",
+                "file": "Техническое задание на UX макет.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,7 +241,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Аккаунт.md"
+                "file": "Техническое задание на UX макет.md"
               }
             }
           },
@@ -250,13 +281,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d03fa45d340d7231",
+  "active": "8ceafbd15240b8a3",
   "lastOpenFiles": [
+    "Аккаунт.md",
+    "Техническое задание на UX макет.md",
     "Latex test.md",
     "Индекс.md",
     "Блокчейн технологии/Криптостойкость.md",
     "Блокчейн технологии/01. Лекция. Криптография. Основные криптографические примитивы.md",
-    "Аккаунт.md",
     "Блокчейн технологии/_Блокчейн технологии.md",
     "Блокчейн технологии",
     "Обработка естественного языка/01. Вводная лекция.md",
@@ -280,7 +312,6 @@
     "Квантовые вычисления/03. Лекция. Вычисления. Тензорное произведение.md",
     "Квантовые вычисления/ДЗ/ДЗ 11.md",
     "Квантовые вычисления/ДЗ/ДЗ 9.md",
-    "Квантовые вычисления/Нотация Дирака.md",
     "_ Assets/Pasted image 20231225124023.png",
     "_ Assets/Pasted image 20231225122636.png",
     "_ Assets/Pasted image 20231225120524.png",
