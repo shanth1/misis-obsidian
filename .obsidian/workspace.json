@@ -114,21 +114,33 @@
                 "source": true
               }
             }
-          }
-        ],
-        "currentTab": 8
-      },
-      {
-        "id": "51e5a52b9888d06d",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "1b2d30a39c339c02",
+            "id": "c4f4146a70a786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Техническое задание на UX макет.md",
+                "file": "ТЗ ПУЛЬСАР.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 9
+      },
+      {
+        "id": "411ff2ea71854730",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1b26e0607d741dc5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ТЗ ПУЛЬСАР.md",
                 "mode": "preview",
                 "source": true
               }
@@ -201,7 +213,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Техническое задание на UX макет.md",
+                "file": "ТЗ ПУЛЬСАР.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,7 +225,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Техническое задание на UX макет.md",
+                "file": "ТЗ ПУЛЬСАР.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -241,7 +253,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Техническое задание на UX макет.md"
+                "file": "ТЗ ПУЛЬСАР.md"
               }
             }
           },
@@ -281,10 +293,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8ceafbd15240b8a3",
+  "active": "1b26e0607d741dc5",
   "lastOpenFiles": [
-    "Аккаунт.md",
     "Техническое задание на UX макет.md",
+    "ТЗ ПУЛЬСАР.md",
+    "Аккаунт.md",
     "Latex test.md",
     "Индекс.md",
     "Блокчейн технологии/Криптостойкость.md",
@@ -311,7 +324,6 @@
     "Квантовые вычисления/10. Лекция. Алгоритм Шора. Шифрование RSA.md",
     "Квантовые вычисления/03. Лекция. Вычисления. Тензорное произведение.md",
     "Квантовые вычисления/ДЗ/ДЗ 11.md",
-    "Квантовые вычисления/ДЗ/ДЗ 9.md",
     "_ Assets/Pasted image 20231225124023.png",
     "_ Assets/Pasted image 20231225122636.png",
     "_ Assets/Pasted image 20231225120524.png",
