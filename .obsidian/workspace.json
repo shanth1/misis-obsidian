@@ -140,7 +140,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ТЗ ПУЛЬСАР.md",
+                "file": "Спецглавы математики/_ Спецглавы математики.md",
                 "mode": "preview",
                 "source": true
               }
@@ -196,8 +196,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 215.5,
-    "collapsed": true
+    "width": 215.5
   },
   "right": {
     "id": "c8cab7b74067b1b1",
@@ -213,7 +212,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ТЗ ПУЛЬСАР.md",
+                "file": "Спецглавы математики/_ Спецглавы математики.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -225,7 +224,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ТЗ ПУЛЬСАР.md",
+                "file": "Спецглавы математики/_ Спецглавы математики.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -253,7 +252,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ТЗ ПУЛЬСАР.md"
+                "file": "Спецглавы математики/_ Спецглавы математики.md"
               }
             }
           },
@@ -295,11 +294,11 @@
   },
   "active": "1b26e0607d741dc5",
   "lastOpenFiles": [
+    "Аккаунт.md",
+    "Индекс.md",
     "Техническое задание на UX макет.md",
     "ТЗ ПУЛЬСАР.md",
-    "Аккаунт.md",
     "Latex test.md",
-    "Индекс.md",
     "Блокчейн технологии/Криптостойкость.md",
     "Блокчейн технологии/01. Лекция. Криптография. Основные криптографические примитивы.md",
     "Блокчейн технологии/_Блокчейн технологии.md",
