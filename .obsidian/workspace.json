@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ba8840d69495ca17",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Индекс.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "e93cc74e0a82bb67",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Latex test.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "eb356f24c4090025",
             "type": "leaf",
             "state": {
@@ -127,8 +103,7 @@
               }
             }
           }
-        ],
-        "currentTab": 9
+        ]
       },
       {
         "id": "411ff2ea71854730",
@@ -157,9 +132,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "d0568dd437894ff3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Спецглавы математики/Без названия.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -225,7 +212,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Спецглавы математики/Test.md",
+                "file": "Latex test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -237,7 +224,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Спецглавы математики/Test.md",
+                "file": "Latex test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -265,7 +252,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Спецглавы математики/Test.md"
+                "file": "Latex test.md"
               }
             }
           },
@@ -305,12 +292,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a67fedd9ccd6ac4c",
+  "active": "eb356f24c4090025",
   "lastOpenFiles": [
-    "Спецглавы математики/_ Спецглавы математики.md",
-    "Спецглавы математики/Test.md",
-    "Аккаунт.md",
     "Индекс.md",
+    "Спецглавы математики/Без названия.md",
+    "Спецглавы математики/Test.md",
+    "Спецглавы математики/_ Спецглавы математики.md",
+    "Аккаунт.md",
     "Техническое задание на UX макет.md",
     "ТЗ ПУЛЬСАР.md",
     "Latex test.md",
@@ -335,7 +323,6 @@
     "Квантовые вычисления/05. Лекция. Оператор CZ и SWAP. Клонирование. QISKIT.md",
     "Квантовые вычисления/04. Лекция. Системы из n-кубит. Квантовая запутанность.md",
     "Квантовые вычисления/10. Лекция. Алгоритм Шора. Шифрование RSA.md",
-    "Квантовые вычисления/03. Лекция. Вычисления. Тензорное произведение.md",
     "_ Assets/Pasted image 20231225124023.png",
     "_ Assets/Pasted image 20231225122636.png",
     "_ Assets/Pasted image 20231225120524.png",
