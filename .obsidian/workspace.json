@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "acf73cc0530c0547",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DSF.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "ce553a2653bef030",
             "type": "leaf",
             "state": {
@@ -103,50 +115,26 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
-        "id": "411ff2ea71854730",
+        "id": "fa79396a244e46b1",
         "type": "tabs",
         "children": [
           {
-            "id": "1b26e0607d741dc5",
+            "id": "0ca1b11ce9b3fae4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Спецглавы математики/_ Спецглавы математики.md",
+                "file": "DSF.md",
                 "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "a67fedd9ccd6ac4c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Спецглавы математики/Test.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "d0568dd437894ff3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Спецглавы математики/Без названия.md",
-                "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -212,7 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Latex test.md",
+                "file": "DSF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -224,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Latex test.md",
+                "file": "DSF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -252,7 +240,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Latex test.md"
+                "file": "DSF.md"
               }
             }
           },
@@ -292,16 +280,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "eb356f24c4090025",
+  "active": "0ca1b11ce9b3fae4",
   "lastOpenFiles": [
-    "Индекс.md",
-    "Спецглавы математики/Без названия.md",
-    "Спецглавы математики/Test.md",
     "Спецглавы математики/_ Спецглавы математики.md",
+    "Спецглавы математики/Test.md",
+    "Спецглавы математики/Без названия.md",
+    "DSF.md",
+    "Latex test.md",
+    "Индекс.md",
     "Аккаунт.md",
     "Техническое задание на UX макет.md",
     "ТЗ ПУЛЬСАР.md",
-    "Latex test.md",
     "Блокчейн технологии/Криптостойкость.md",
     "Блокчейн технологии/01. Лекция. Криптография. Основные криптографические примитивы.md",
     "Блокчейн технологии/_Блокчейн технологии.md",
@@ -322,7 +311,6 @@
     "Квантовые вычисления/09. Лекция. Алгоритм Гровера.md",
     "Квантовые вычисления/05. Лекция. Оператор CZ и SWAP. Клонирование. QISKIT.md",
     "Квантовые вычисления/04. Лекция. Системы из n-кубит. Квантовая запутанность.md",
-    "Квантовые вычисления/10. Лекция. Алгоритм Шора. Шифрование RSA.md",
     "_ Assets/Pasted image 20231225124023.png",
     "_ Assets/Pasted image 20231225122636.png",
     "_ Assets/Pasted image 20231225120524.png",
